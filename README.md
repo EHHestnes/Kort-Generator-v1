@@ -1,10 +1,4 @@
 # Kort-Generator-v1
- Automatic card generator safty card OD.  
- This program only prints text in Norwegian on the safty cards
- The program is made to be runable from "Kjør Kort-Automaten" if you put it right on the D-drive(D: \).
- There are no saved name in the list, so you have write in names you wanted to use in the application/program.
+ Automatic card generator safty card OD. This program only prints text in Norwegian on the safty cards, but you can write in text in english to be printet on to the card.The program is made to be runable from "Kjør Kort-Automaten" if you put it right on the D-drive(D: \). There are no saved name in the list, so you have write in names you wanted to use in the application/program. The easiest way to get on your PC, is by downloading the rar file and extracting the folder "Kortautotext".
  
- Automatisk kort generator for sikkerhetskort(statestikk kort) OD.
- Dette programmet skriver kun ut tekst på norsk på kortene.
- Programmet er lagtet silk at en kan legge det rett inn på D-disken(D:\) og en starter programmet med "Kjør Kort-Automaten". 
- Der ligger ingen navn lagret så det må legges inn når en bruker programmet.
+ Automatisk kort generator for sikkerhetskort(statestikk kort) OD. Dette programmet skriver kun ut tekst på norsk på kortene. Programmet er lagtet silk at en kan legge det rett inn på D-disken(D:\) og en starter programmet med "Kjør Kort-Automaten". Der ligger ingen navn lagret så det må legges inn når en bruker programmet. Den enklste måten å få programmet ned på PC din, er ved laste ned rar-filen og pakke den ut og kopiere mappen "Kortautotext"
